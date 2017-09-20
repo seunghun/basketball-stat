@@ -21,7 +21,7 @@ var include = require('gulp-html-tag-include');
 
 var src = 'public/src';
 var demo = 'public/demo';
-var dist = 'public/dist';
+var dist = 'public/dist';npm
 
 var asset = "public/dist/asset";
 //var distCssFileName = "common.css";
